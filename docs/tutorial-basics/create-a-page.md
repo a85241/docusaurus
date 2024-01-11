@@ -19,12 +19,17 @@ Add **Markdown or React** files to `src/pages` to create a **standalone page**:
 
 ## Conforto
 
-Create a file at `src/pages/my-markdown-page.md`:
+- Ar Condicionado
+- Higienização Automóvel Midas Air
+- Filtro do Habitáculo
 
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
 
-This is a Markdown page
-```
+## Visibilidade 
+
+- Lâmpadas
+- Focagem dos Faróis
+- Escovas Limpa Vidros
+- Vidros Automóvel
+
 
 
